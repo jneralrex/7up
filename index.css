@@ -56,7 +56,7 @@ width: 998px;
  font-size: 15px;
 }
 .section-two{
- background-image: url(./7up-simple-banner.webp);
+ background-image: url(./images/7up-simple-banner.webp);
  height: 800px;
  background-repeat: no-repeat;
  background-size: cover;
@@ -90,7 +90,7 @@ width: 998px;
  font-size:20px;
 }
 .section-three {
- background-image: url(./check1.jpg);
+ background-image: url(./images/check1.jpg);
  height: 300px;
  background-repeat: no-repeat;
  background-size: cover;
@@ -109,7 +109,7 @@ padding: 400px 0px 0px 480px;
 }
 
 .section-four {
- background-image: url(./IMG_0756.jpeg);
+ background-image: url(./images/IMG_0756.jpeg);
  height: 300px;
  background-repeat: no-repeat;
  background-size: cover;
@@ -130,7 +130,7 @@ padding: 400px 0px 0px 480px;
 }
 
 .section-five {
- background-image: url(./IMG_0757.jpeg);
+ background-image: url(./images/IMG_0757.jpeg);
  height: 300px;
  background-repeat: no-repeat;
  background-size: cover;
@@ -225,7 +225,7 @@ padding-top: 100px;
   font-weight: bold;
 }
 footer{
-  background-image: url(./unnamed.jpg);
+  background-image: url(./images/unnamed.jpg);
   height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
