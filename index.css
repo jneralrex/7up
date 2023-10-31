@@ -1,0 +1,271 @@
+*{
+ padding: 0;
+ margin: 0;
+ list-style: none;
+ font-family: helvetica neue, Helvetica, Arial, sans-serif;
+}
+nav{
+ display: flex;
+ justify-content: space-between;
+ background-color: #009e5f;
+ position: fixed;
+ height: 60px;
+ width: 100%;
+ position: fixed;
+}
+.logo img{
+ width: 100px;
+ position: absolute;
+}
+.list-items ul{
+
+ display: flex;
+}
+.list-items li{
+ margin: 18px 20px;
+ color: #ffff;
+ font-weight: bold;
+}
+.section-one{
+ display: flex;
+padding-top: 60px;
+}
+.section-one-left p {
+ font-size: 30px;
+ font-weight: bold;
+ color: #009e5f;
+
+}
+.section-one-left img{
+ width: 349px;
+}
+.section-one-left {
+ text-align: center;
+}
+.section-one-right img{
+width: 998px;
+}
+.seven-up-btn {
+ padding: 20px;
+}
+.seven-up-btn button{
+ padding: 10px 45px;
+ border: 3px solid #009e5f;
+ background-color: transparent;
+ color: #009e5f;
+ font-size: 15px;
+}
+.section-two{
+ background-image: url(./7up-simple-banner.webp);
+ height: 800px;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+
+.section-two-text{
+ padding: 200px  0px 0px 100px;
+ color: #ffff;
+}
+.section-two-text h1{
+ font-size: 70px;
+ padding-bottom: 15px;
+}
+.real{
+ font-size: 30px;
+ padding-bottom: 7px;
+ font-weight: bold;
+}
+.now{
+ font-size: 30px;
+ font-weight: bold;
+}
+.section-two-btn{
+ padding-top: 25px;
+}
+.section-two-btn button{
+ padding: 20px 20px;
+ border: none;
+ color: #009e5f;
+ font-size:20px;
+}
+.section-three {
+ background-image: url(./check1.jpg);
+ height: 300px;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+.section-three {
+padding: 400px 0px 0px 480px;
+}
+.section-three-btn button {
+ padding: 25px 25px;
+ border: none;
+ color: white;
+ font-size: 35px;
+ background-color: #fe5887;
+ font-weight: bold;
+}
+
+.section-four {
+ background-image: url(./IMG_0756.jpeg);
+ height: 300px;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+
+.section-four {
+ padding: 400px 0px 0px 480px;
+}
+
+.section-four-btn button {
+ padding: 25px 25px;
+ border: none;
+ color: white;
+ font-size: 35px;
+ background-color: #6ba13f;
+ font-weight: bold;
+}
+
+.section-five {
+ background-image: url(./IMG_0757.jpeg);
+ height: 300px;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+
+.section-five {
+ padding: 400px 0px 0px 480px;
+}
+
+.section-five-btn button {
+ padding: 25px 25px;
+ border: none;
+ color: white;
+ font-size: 35px;
+ background-color: #c064ac;
+ font-weight: bold;
+}
+.four-images-list{
+ display: flex;
+}
+.three-images{
+ display: flex;
+ padding: 200px 80px 0px 50px;
+}
+.three-image1{
+ height: 300px;
+
+ 
+}
+.three-image2{
+ height: 350px;
+ margin: 0px 50px 0px 50px;
+}
+.three-image3{
+ height: 250px;
+}
+.forth-pics{
+  background-color: #ececec;
+  height: 900px;
+  width: 647px;
+  padding-left: 10px;
+}
+.forth-pics-item{
+display: flex;
+padding-top: 100px;
+
+}
+
+.forth-pics-item img{
+ padding-top: 20px;
+ height: 120px;
+ padding-left: 100px;
+}
+
+.forth-pics-text1 {
+  font-size: 69px;
+  color: #858585;
+  font-weight: bolder;
+  padding: 15px 0px 0px 20px;
+}
+.spot {
+ position: relative;
+ z-index: 5;
+ color: #d71e05;
+ font-family: Times, times new roman, serif;
+ line-height: .75;
+}
+.forth-pics-text2{
+  font-size: 24px;
+   color: #858585;
+   font-weight: bolder;
+   padding: 15px 0px 0px 50px;
+}
+.forth-pics-text3 {
+ font-size: 15px;
+  color: #858585;
+  font-weight: light;
+  padding: 0px 0px 30px 50px;
+  font-weight: 600;
+}
+.image-four-btn {
+  padding: 25px 0px 30px 50px;
+}
+.image-four-btn button {
+ font-size: 16px;
+ font-weight: 700;
+ padding: 10px 20px;
+  border:5px solid #009e5f;;
+  color: #009e5f;
+  background-color: #ececec;
+  font-weight: bold;
+}
+footer{
+  background-image: url(./unnamed.jpg);
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 800px;
+  
+}
+.footer-socials{
+  display: flex;
+   justify-content: center;
+   padding-top: 20px;
+   
+  }
+.footer-socials li{
+  margin-left: 10px;
+}
+.footer-socials img{
+ height: 24px;
+}
+
+.footer-options{
+  display: flex;
+  font-size: 12px;
+  justify-content: center;
+  margin: 10px;
+  color: #818182;
+}
+.footer-options li{
+ margin: 10px;
+} 
+.footer-p{
+  font-size: 12px;
+   text-align: center;
+     color: #818182;
+     padding-bottom: 20px;
+   
+}
+.footer-items{
+ background-color: rgba(255,255,255,.75);
+ margin: 150px;
+}
+.demacation{
+  display: none;
+}
